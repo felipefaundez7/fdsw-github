@@ -11,6 +11,13 @@ body {
   background-position: left;
 }
 
+h1 {
+  color: bisque;
+}
+
+body {
+  background-color: bisque;
+}
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
